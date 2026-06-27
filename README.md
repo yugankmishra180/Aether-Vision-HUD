@@ -21,5 +21,4 @@ A real-time cyberpunk-style AR HUD using MediaPipe and OpenCV.
 2. Run `python aethervision_hud.py`
 
 ## Credits
-This project was inspired by a Telegram reference implementation.
-I have customized and extended it with my own features.
+This project's implementation, customized and extended it with by my own features.
